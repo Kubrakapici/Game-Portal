@@ -1,0 +1,1 @@
+A game portal was designed using html, css and js. Mini libraries were created and used to understand the development and library logic. After the page was completed, arrangements were made for responsive design.
